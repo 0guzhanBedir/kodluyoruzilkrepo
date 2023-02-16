@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+Frontend eğitimi için
